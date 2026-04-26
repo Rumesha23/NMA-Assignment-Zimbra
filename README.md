@@ -1,8 +1,7 @@
 # Network Management and Administration Assignment
 
 ##  Student Details
-Name: Nisadi G.D.R.  
-IT Number: IT24102489  
+Name: Nisadi G.D.R.   
 
 ##  Module
 Network Management and Administration (NMA)
